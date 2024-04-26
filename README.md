@@ -1,2 +1,2 @@
 # prototipopharmadash
- bruh
+Prototipo del desarrollo web de pharmadash
